@@ -1,6 +1,6 @@
-# frontend ITWM101 (frontend)
+# Nanami's Shop
 
- frontend ITWM101
+ 
 
 ## Install the dependencies
 ```bash
